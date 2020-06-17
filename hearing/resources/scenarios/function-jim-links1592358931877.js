@@ -1,18 +1,7 @@
 (function(window, undefined) {
 
   var jimLinks = {
-    "b69d7b9f-1792-41e2-8494-9eb9ef0d6d3f" : {
-      "Label_28" : [
-        "50b67562-be48-45b0-b7f9-3c417b6d1b71"
-      ],
-      "Label_29" : [
-        "578af040-5d46-4fa8-867d-cc64973f60fc"
-      ]
-    },
     "55e5cb62-1618-40b5-91bf-07547d1e204a" : {
-      "Button" : [
-        "f2b24f13-fffe-4568-806a-4689f6138761"
-      ],
       "Label_84" : [
         "f2b24f13-fffe-4568-806a-4689f6138761"
       ],
@@ -23,15 +12,12 @@
         "50b67562-be48-45b0-b7f9-3c417b6d1b71"
       ]
     },
-    "93ad62b4-6f8d-4dfd-bad5-3cffd7dab422" : {
-      "Button" : [
-        "ebeafb3c-1d62-482c-a9ff-f6c02617bbc5"
-      ],
-      "Label_84" : [
-        "ebeafb3c-1d62-482c-a9ff-f6c02617bbc5"
-      ],
-      "Button-blue_10" : [
+    "b69d7b9f-1792-41e2-8494-9eb9ef0d6d3f" : {
+      "Label_28" : [
         "50b67562-be48-45b0-b7f9-3c417b6d1b71"
+      ],
+      "Label_29" : [
+        "578af040-5d46-4fa8-867d-cc64973f60fc"
       ]
     },
     "ebeafb3c-1d62-482c-a9ff-f6c02617bbc5" : {
@@ -40,6 +26,14 @@
       ],
       "Label_29" : [
         "55e5cb62-1618-40b5-91bf-07547d1e204a"
+      ]
+    },
+    "93ad62b4-6f8d-4dfd-bad5-3cffd7dab422" : {
+      "Label_84" : [
+        "ebeafb3c-1d62-482c-a9ff-f6c02617bbc5"
+      ],
+      "Button-blue_10" : [
+        "50b67562-be48-45b0-b7f9-3c417b6d1b71"
       ]
     },
     "516df650-3fcd-49b6-9ea5-68d65c85cdbd" : {
@@ -112,11 +106,6 @@
         "50b67562-be48-45b0-b7f9-3c417b6d1b71"
       ]
     },
-    "19ea93e2-9a27-446f-a8a5-3931fe239c29" : {
-      "Label_84" : [
-        "b69d7b9f-1792-41e2-8494-9eb9ef0d6d3f"
-      ]
-    },
     "e9466f08-8c91-4b5e-a384-3ebd188b1e73" : {
       "Paragraph_17" : [
         "2bd5c005-cfdc-41f6-a14e-0f4b8707d522"
@@ -134,6 +123,11 @@
       ],
       "Button_1" : [
         "516df650-3fcd-49b6-9ea5-68d65c85cdbd"
+      ]
+    },
+    "19ea93e2-9a27-446f-a8a5-3931fe239c29" : {
+      "Label_84" : [
+        "b69d7b9f-1792-41e2-8494-9eb9ef0d6d3f"
       ]
     },
     "dd511363-56cb-427f-88c3-b1f885e18325" : {

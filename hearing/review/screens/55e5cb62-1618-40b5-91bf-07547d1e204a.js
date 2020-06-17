@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="iPhone6" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="667">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592327497842.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592327497842-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592327497842-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592358931877.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592358931877-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592358931877-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-55e5cb62-1618-40b5-91bf-07547d1e204a" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="PureTuneTesting2" width="375" height="667">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/55e5cb62-1618-40b5-91bf-07547d1e204a-1592327497842.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/55e5cb62-1618-40b5-91bf-07547d1e204a-1592327497842-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/55e5cb62-1618-40b5-91bf-07547d1e204a-1592327497842-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/55e5cb62-1618-40b5-91bf-07547d1e204a-1592358931877.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/55e5cb62-1618-40b5-91bf-07547d1e204a-1592358931877-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/55e5cb62-1618-40b5-91bf-07547d1e204a-1592358931877-ie8.css" /><![endif]-->\
       <div id="s-Top_Bar-1" class="group firer ie-background commentable non-processed" datasizewidth="375px" datasizeheight="89px" dataX="0" dataY="0" >\
         <div id="s-Rectangle_11" class="pie percentage rectangle firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed"   datasizewidth="100%" datasizeheight="89px" dataX="0" dataY="0" >\
          <div class="backgroundLayer"></div>\
@@ -76,7 +76,7 @@ var content='<div class="ui-page" deviceName="iPhone6" deviceType="mobile" devic
       </div>\
       <div id="s-Text_1" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="234px" datasizeheight="25px" dataX="71" dataY="138" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_1_0">กำลังอยู่ในกระบวนการทดสอบ</span></div></div></div></div>\
       <div id="s-Text_3" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="266px" datasizeheight="25px" dataX="54" dataY="178" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_3_0">โปรดกดปุ่ม &quot;ได้ยิน&quot; (กดแล้วปล่อย)</span></div></div></div></div>\
-      <div id="s-Button" class="pie percentage label singleline firer click pageload commentable pin hpin-center non-processed-percentage non-processed-pin non-processed"   datasizewidth="95%" datasizeheight="57px" dataX="0" dataY="272" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Button_0">ได้ยิน</span></div></div></div></div>\
+      <div id="s-Button" class="pie percentage label singleline firer click commentable pin hpin-center non-processed-percentage non-processed-pin non-processed"   datasizewidth="95%" datasizeheight="57px" dataX="0" dataY="272" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Button_0">ได้ยิน</span></div></div></div></div>\
       <div id="s-Text_4" class="pie label singleline autofit firer ie-background commentable non-processed"   datasizewidth="142px" datasizeheight="25px" dataX="116" dataY="222" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Text_4_0">เมื่อท่านได้ยินเสียง</span></div></div></div></div>\
       <div id="s-button-forward" class="group firer ie-background commentable non-processed" datasizewidth="65px" datasizeheight="22px" dataX="304" dataY="57" >\
         <div id="s-Label_84" class="pie label singleline autofit firer click ie-background commentable non-processed"   datasizewidth="37px" datasizeheight="21px" dataX="0" dataY="0" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Label_84_0">Done</span></div></div></div></div>\

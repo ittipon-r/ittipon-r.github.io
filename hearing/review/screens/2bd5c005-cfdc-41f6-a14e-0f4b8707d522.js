@@ -2,18 +2,18 @@ var content='<div class="ui-page" deviceName="iPhone6" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS canvas firer commentable non-processed" alignment="left" name="Template 1" width="375" height="667">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592327497842.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592327497842-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592327497842-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592358931877.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592358931877-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1592358931877-ie8.css" /><![endif]-->\
       </div>\
       <div id="loadMark"></div>\
     </div>\
     <div id="s-2bd5c005-cfdc-41f6-a14e-0f4b8707d522" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Home2" width="375" height="667">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/2bd5c005-cfdc-41f6-a14e-0f4b8707d522-1592327497842.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/2bd5c005-cfdc-41f6-a14e-0f4b8707d522-1592327497842-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/2bd5c005-cfdc-41f6-a14e-0f4b8707d522-1592327497842-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/2bd5c005-cfdc-41f6-a14e-0f4b8707d522-1592358931877.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/2bd5c005-cfdc-41f6-a14e-0f4b8707d522-1592358931877-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/2bd5c005-cfdc-41f6-a14e-0f4b8707d522-1592358931877-ie8.css" /><![endif]-->\
       <div id="s-Button" class="pie percentage label singleline firer click commentable pin hpin-center non-processed-percentage non-processed-pin non-processed"   datasizewidth="95%" datasizeheight="57px" dataX="0" dataY="156" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Button_0">ล็อคอินสู่ระบบสำ</span><span id="rtr-s-Button_1">หรับผู้ที่เคยลงทะเบียนแล้ว</span></div></div></div></div>\
       <div id="s-Button_1" class="pie percentage label singleline firer click commentable pin hpin-center non-processed-percentage non-processed-pin non-processed"   datasizewidth="95%" datasizeheight="57px" dataX="0" dataY="224" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Button_1_0">ลงทะเบียนสำหรับผู้ใช้งานใหม่</span></div></div></div></div>\
       <div id="s-Button_2" class="pie percentage label singleline firer click commentable pin hpin-center non-processed-percentage non-processed-pin non-processed"   datasizewidth="95%" datasizeheight="57px" dataX="0" dataY="293" ><div class="backgroundLayer"></div><div class="paddingLayer"><div class="content"><div class="valign"><span id="rtr-s-Button_2_0">ทำการทดสอบโดยไม่ลงทะเบียน</span></div></div></div></div>\
